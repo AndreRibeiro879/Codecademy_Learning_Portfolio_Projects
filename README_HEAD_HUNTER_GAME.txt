@@ -11,6 +11,8 @@ PeRiGames designed the conceptualization of the game functionning and AI helped 
 This project were developed under the scope of CodeCademy Portfolio Project: Python Terminal Game - 
 Intro to Programming Unit of the Computer Science Career Path.
 
+In this game each player has its own coin toss.
+
 Be free to make some suggestions for the future.
 
 
@@ -18,3 +20,5 @@ Be free to make some suggestions for the future.
 
 
 You should have installed Python 3 in your machine to run the game. 
+
+
