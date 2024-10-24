@@ -15,9 +15,13 @@ The rules are simple:
 
 - For each guessed head the player earn 5 points. For each guessed tail, the player should earn 2 points. If a player guessed wrongly the result it should loose -3 points.
 
-- The first player earnning a total of 100 points win the game.
+- The first player earnning a total of 50 points win the game.
 
 - The game should run until a player reachs 100 points.
 Could you help me with code? 
 
--------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Second Prompt
+
+Regarding your code suggestion, the game should ask the number of players, then the name of the players and then the guess before start. Is it necessary correct it?
