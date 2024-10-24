@@ -1,0 +1,23 @@
+First Prompt:
+
+
+I want to create a python terminal game called Head Hunter Game with object oriented programming (classes and methods).
+
+My game is based on 10 random coin toss and all the players should guess the result of that.
+
+This game, should allow multiplayers entries, and every player should input its name and its guess before game starts.
+
+The game should have a ranking board where the players results should be written for each attempt and a board for a general classification with the summary of total earned points.
+
+The rules are simple:
+
+- Before the game start every player should input its name (as a start point of the game and only one time) and its guess ("head" or "tail") - it is necessary allow upper and lowercase characters in both name and guess inputs;
+
+- For each guessed head the player earn 5 points. For each guessed tail, the player should earn 2 points. If a player guessed wrongly the result it should loose -3 points.
+
+- The first player earnning a total of 100 points win the game.
+
+- The game should run until a player reachs 100 points.
+Could you help me with code? 
+
+-------------------------------------------------------------------------------
