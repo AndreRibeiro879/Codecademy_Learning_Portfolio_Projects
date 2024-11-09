@@ -37,3 +37,6 @@ research on healthcare and medical diagnostics."
 
 I hope that you enjoy the project and, if it possible, share with me some feedback.
 Thank you in advance.
+
+License:
+MIT
