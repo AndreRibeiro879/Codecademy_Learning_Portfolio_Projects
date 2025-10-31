@@ -40,6 +40,4 @@ Provided by Codecademy:
 ```text
 ├── biodiversity.ipynb
 ├── biodiversity_README.md
-├── biodiversity.ppsx (When you open the presentation, please select enable (security window). The slide deck has a link for a vídeo. If necessary, you can access the vídeo here: ) 
 
-[What is Biodiversity?](https://www.youtube.com/watch?v=b6Ua_zWDH6U)
